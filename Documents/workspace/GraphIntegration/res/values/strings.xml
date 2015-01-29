@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GraphIntegration</string>
+    <string name="action_settings">Settings</string>
+    <string name="choose_graph1">Choose File</string>
+    <string name="title_activity_web_view">WebViewActivity</string>
+    <string name="title_activity_web_view_activity2">WebViewActivity2</string>
+    <string name="instructions">Please click the button below and choose a file to display</string>
+    <string name="button1url_text">URL for graph #1</string>
+    <string name="show_graphs">Display Graphs</string>
+    <string name="title_activity_show_graphs">ShowGraphsActivity</string>
+    <string name="nothing"></string>
+    <string name="draw_edge_text_view">Draw Edge:</string>
+    <string name="from_text_view">From</string>
+    <string name="to_text_view">To</string>
+    <string name="add_button">Add Edge</string>
+    <string name="articulation">Articulation</string>
+    <string name="space7">               </string>
+    <string name = "space11">                </string>
+    
+    <string-array name="articulation_types" >
+  		<item> == </item>    
+  	    <item> &lt; </item>
+  	    <item> &gt;&lt; </item>
+  	    <item> in </item>
+  	    <item> out </item>
+  	</string-array>
+
+    
+</resources>

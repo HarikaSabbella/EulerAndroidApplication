@@ -1,0 +1,52 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/modifyDiagram"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/modifyDiagram">
+        <menu>
+            <item
+                android:id="@+id/newEdge"
+        		android:orderInCategory="100"
+        		android:showAsAction="ifRoom"
+       			android:title="@string/newEdge">
+            </item>
+            <item 
+                android:id="@+id/modifyAvailableArticulations"
+        		android:orderInCategory="100"
+        		android:showAsAction="ifRoom"
+       			android:title="@string/modifyAvailableArticulations">
+            </item>
+            <item
+                android:id="@+id/highlightEdges"
+        		android:orderInCategory="100"
+        		android:showAsAction="ifRoom"
+       			android:title="@string/highlightEdges">
+       		</item>           
+        </menu>
+    </item>
+    <item
+        android:id="@+id/diagramInfo"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+       	android:title="@string/diagramInfo">
+    </item>
+	
+    <item
+        android:id="@+id/runEuler"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+       	android:title="@string/runEuler">
+		   
+	</item>
+	
+	<item
+        android:id="@+id/help"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+       	android:title="@string/help">
+	</item>
+    
+    
+</menu>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+    <color name="white">#FFFFFF</color>
+    <color name="pink">#253529</color>
+	<string name="clean_tax_file">View CleanTax File</string>
+    <string name="individual_worlds">See Individual Worlds</string>
+    
+    <string name="possible_worlds">Possible World Fixes</string>
+    <string name="diagonistic_lattice">Diagnostic Lattice</string>
+    
+    <string name="done">Done</string>
+    <string name="deleteLink">DELETE EDGE</string>
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+    <string name="fix">Fix Taxonomies</string>
+    <string name="app_name">Euler</string>
+    <string name="choose_graph1">Choose Input</string>
+    <string name="instructions">Please click the button below and choose a file to display</string>
+    <string name="button1url_text">URL for graph #1</string>
+    <string name="show_graphs">Display Input</string>
+    <string name="nothing"></string>
+    <string name="draw_edge_text_view">Draw Edge:</string>
+    <string name="from_text_view">From</string>
+    <string name="to_text_view">To</string>
+    <string name="add_button">Add</string>
+    <string name="articulation_settings_button">Modify Available Articulations</string>
+    <string name="consistency_button">"Consistency Log"</string>
+    <string name="draw_worlds_button">"Display Possible Worlds"</string>
+    <string name="articulation">Articulation</string>
+    <string name="space7"></string>
+    <string name="space11"></string>
+    <string name="done_button">"Done Modifying Articulations"</string>
+    <string name="add_new_articulation_button">Add New Articulation</string>
+    <string name="enter_articulation_field">Enter New Articulation</string>
+    <string name="articulations_list">List of Existing Articulations: </string>
+    <string name="internal">Internal</string>
+    <string name="display">Display</string>
+    <string name="representation">Representation</string>
+    <string name="change_articulation">Change</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="update">Update</string>
+    <string name="alreadyPresent">Entered articulation is already present as a display or internal articulation!</string>
+    <string name="emptyArticulation">Empty articulations are not allowed!</string>
+    <string name="highlightEdges">Highlight or Lowlight Edges</string>
+    <string name="highlight">Highlight</string>
+    <string name="dehighlight">Lowlight</string>
+    <string name="pickNode">Pick a node whose edges you would like to highlight or lowlight: </string>
+    <string name="getNodeCount">Display Node Count</string>
+    <string name="routeEdges">Route Edges</string>
+    <string name="arrangeTaxonomies">Arrange Taxonomies</string>
+    <string name="title_activity_web_view">Choose Taxonomy</string>
+    <string name="title_activity_show_graphs">Visualization of Chosen Input</string>
+    <string name="title_activity_articulation_settings">Enter new articulations or change existing articulations:</string>
+    <string name="newEdge">Add New Edge</string>
+    <string name="modifyDiagram">Modify Diagram</string>
+    <string name="runEuler">Run Euler</string>
+    <string name="diagramInfo">Diagram Information</string>
+    <string name="help">Help</string>
+    <string name="about">About</string>
+    <string name="modifyAvailableArticulations">Modify Available Articulations</string>
+    <string name="title_activity_main_activity1">MainActivity1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_display_possible_worlds">Taxonomies Inconsistent!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_show_possible_worlds">Aggregate View of Possible Worlds</string>
+
+</resources>

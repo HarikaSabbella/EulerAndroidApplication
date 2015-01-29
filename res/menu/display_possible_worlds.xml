@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.graphintegration.ConsistencyChecker" >
+	<item
+        android:id="@+id/consistency_button"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+       	android:title="@string/consistency_button">
+	</item>
+	<item
+        android:id="@+id/fix_consistency_button"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+       	android:title="@string/fix">
+	</item>
+	<item
+        android:id="@+id/help_button"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+       	android:title="@string/help">
+	</item>
+	
+</menu>
