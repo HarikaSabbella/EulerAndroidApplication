@@ -23,7 +23,7 @@ Once the user is finished making their modifications to the taxonomies, they can
 The remainder of this README provides instructions for getting started with the Euler Android Application, either as a user or as a developer.  For a detailed explanation of the working of the backend/server, please consult the README file located in the EulerServer repository (https://github.com/HarikaSabbella/EulerServer). 
 
 <h1> Instructions for users of application </h1> 
-1. Download the [APK](https://drive.google.com/file/d/0B5aE6-oQSXlfcUJUX2JkQ0VnYWs/view?usp=sharing) onto your Android device
+1. Download the [APK](https://drive.google.com/file/d/0B5aE6-oQSXlfTGVXdm5YWno3c1E/view?usp=sharing) file onto your Android device
 2. Open the downloaded APK file from the downloads folder on your device 
 3. Begin playing around with the application!
 
