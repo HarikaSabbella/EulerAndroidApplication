@@ -26,6 +26,7 @@ The remainder of this README provides instructions for getting started with the 
 1. Download the [APK](https://drive.google.com/file/d/0B5aE6-oQSXlfTGVXdm5YWno3c1E/view?usp=sharing) file onto your Android device
 2. Open the downloaded APK file from the downloads folder on your device 
 3. Begin playing around with the application!
+(Note: In order to run your own examples you will need to change line 23 in this [file] (https://github.com/HarikaSabbella/EulerAndroidApplication/blob/master/src/com/example/graphintegration/WebViewActivity.java) to point to your graph repository.
 
 <h1> Instructions for developers of application </h1>
 1. Download and unzip the [EulerAndroidApp-master.zip] (https://github.com/HarikaSabbella/EulerAndroidApplication/archive/master.zip) file
