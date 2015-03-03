@@ -28,7 +28,7 @@ The remainder of this README provides instructions for getting started with the 
 3. Begin playing around with the application!
 
 <h1> Instructions for developers of application </h1>
-1. Download and unzip the EulerAndroidApp-master.zip file
+1. Download and unzip the [EulerAndroidApp-master.zip] (https://github.com/HarikaSabbella/EulerAndroidApplication/archive/master.zip) file
 2. Eclipse set-up
     1. Download and install Eclipse Juno (https://eclipse.org/downloads/packages/eclipse-classic-422/junosr2)
     2. In Eclipse, Help -> Install New Software
